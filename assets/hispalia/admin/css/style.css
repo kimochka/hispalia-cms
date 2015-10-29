@@ -1,0 +1,9 @@
+/* GENERAL STYLES */
+/*.deleteButton, .modifyButton {
+	cursor: pointer;
+	color: black;
+}
+
+.deleteButton:hover, .modifyButton:hover {
+	color: #3366FF;
+}*/
